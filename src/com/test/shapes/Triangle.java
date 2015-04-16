@@ -7,6 +7,8 @@ public class Triangle implements Shape{
 
     public Triangle(double base, double height) {
         // TODO Auto-generated constructor stub
+        System.out.println("Base :" + base);
+        System.out.println("Height: " + height);
     }
 
     @Override
